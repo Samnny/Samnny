@@ -1,8 +1,9 @@
 # Olá, me chamo Samay! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em desenvolvimento Full-Stack
-- 🌱 Atualmente estou aprendendo Java | Kotlin
+## ✨ Sobre mim
+
+Sou desenvolvedora Back-End e estou cursando Sistemas e Mídias Digitais na Universidade Federal do Ceará. Estou me especializando na linguagem Java e tenho como uma das minhas metas que a maior porcentagem dos meus repositórios seja em Java.
 
 ## ⚙️ Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
